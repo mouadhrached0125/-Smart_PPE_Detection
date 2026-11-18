@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.pytest_cache/
+mlruns/
+.mlflow/
+data/raw/*
+data/processed/*
+models/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!models/.gitkeep
