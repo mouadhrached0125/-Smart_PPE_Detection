@@ -8,11 +8,10 @@ mlruns/
 .mlflow/
 data/raw/*
 data/processed/*
-models/*
+
 !data/raw/.gitkeep
 !data/processed/.gitkeep
-!models/.gitkeep
-!models/*.dvc
+
 
 # Frontend
 node_modules/
