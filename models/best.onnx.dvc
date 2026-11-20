@@ -1,0 +1,5 @@
+outs:
+- md5: 64f8eb72c042d2a366eb14647637d90d
+  size: 10844872
+  hash: md5
+  path: best.onnx
