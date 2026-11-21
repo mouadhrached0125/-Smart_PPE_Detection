@@ -22,3 +22,5 @@ frontend/dist/
 result_annotated.jpg
 test.jpg
 test_visualize.py
+
+.venv-dvc/
